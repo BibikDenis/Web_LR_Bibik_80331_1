@@ -1,0 +1,9 @@
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\bin\Release\netcoreapp3.1\WebApplication1.DAL.deps.json
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\bin\Release\netcoreapp3.1\WebApplication1.DAL.dll
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\bin\Release\netcoreapp3.1\WebApplication1.DAL.pdb
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\obj\Release\netcoreapp3.1\WebApplication1.DAL.csprojAssemblyReference.cache
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\obj\Release\netcoreapp3.1\WebApplication1.DAL.AssemblyInfoInputs.cache
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\obj\Release\netcoreapp3.1\WebApplication1.DAL.AssemblyInfo.cs
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\obj\Release\netcoreapp3.1\WebApplication1.DAL.csproj.CoreCompileInputs.cache
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\obj\Release\netcoreapp3.1\WebApplication1.DAL.dll
+D:\[БГУИР_ИИТ_ПОИС]\[4_семестр]\[Web]\[Проекты]\Web_Labs_Bibik_80331_1\WebApplication1.DAL\obj\Release\netcoreapp3.1\WebApplication1.DAL.pdb
